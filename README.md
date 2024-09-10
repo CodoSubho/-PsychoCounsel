@@ -1,9 +1,9 @@
-# -PsychoCounsel
+
 
 # PsycoCouncil: The Human Psychological Counselor
 
 ## Overview
-PsycoCouncil is an advanced psychological counseling platform integrating cutting-edge technologies such as Computer Vision and Signal Processing for precise emotion recognition and heart rate analysis. Through the utilization of these sophisticated methods, PsycoCouncil aims to deliver comprehensive and accurate insights to enhance the counseling experience for individuals seeking psychological support.
+PsycoCouncil is an advanced psychological counseling platform integrating cutting-edge technologies such as Computer Vision and Signal Processing for precise emotion recognition and heart rate analysis. Through the utilization of these sophisticated methods, PsycoCouncil aims to deliver comprehensive and accurate insights to enhance the counseling experience for individuals seeking psychological support.This application is highly suppportive for specially abled individuals.
 
 ## Cite
   ```
